@@ -1,4 +1,4 @@
-# picoscrolldemo
+# Pico Scroll Demo
 A Pico Scroll demo.
 
 Options are 
