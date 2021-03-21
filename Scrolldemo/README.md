@@ -2,7 +2,7 @@
 
 Options are:
 
-A - you will get the letter 'A' on your display
+A - you will get the letter 'A' on your display - I know - surprise!! :)
 
 B - Show the different intensities of the LEDs (from https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/modules/pico_scroll)
 
