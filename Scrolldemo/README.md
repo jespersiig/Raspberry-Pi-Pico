@@ -1,6 +1,6 @@
 # Pico Scroll Demo
 
-Options are:
+## Options are:
 
 A - you will get the letter 'A' on your display - I know - surprise!! :)
 
